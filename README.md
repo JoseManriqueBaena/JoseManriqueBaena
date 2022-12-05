@@ -26,7 +26,8 @@
 </div>
 
 </td></tr> 
-## Connect with me
+
+## Connect with me 
 <br>
 <div align="center">
 <a href="https://github.com/JoseManriqueBaena" target="_blank">
