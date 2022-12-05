@@ -1,7 +1,7 @@
 <div align="center"><h1> Hello, I'm Jose Manrique Baena! </h1></div>  
 
 <div align="center">
-<img src="https://thumbs.dreamstime.com/b/web-development-concept-web-site-coding-full-stack-programing-web-security-usability-platform-testing-web-developer-209521403.jpg" align="center" style="width: 100%" />
+<img src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-6.jpg" align="center" style="width: 100%" />
 </div>  
 
 
