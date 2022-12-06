@@ -5,7 +5,7 @@
 </div>  
 
 
-#### <div align="center">Mi nombre es Jose, tengo 25 años, soy ingeniero multimedia y full-stack developer apasionado por el frontend, la programación y el desarrollo web. Siempre estoy buscando ampliar mi conocimiento, aprendiendo nuevas tecnologías y profundizando en las que ya conozco para poder desenvolverme mejor en el campo del desarrollo web. Soy muy paciente y centrado en lo que hago, tengo gran atención a los detalles y atento a los demás para poder lograr los mejores resultados para el equipo.</div>  
+### <div align="center">Mi nombre es Jose, tengo 25 años, soy ingeniero multimedia y full-stack developer apasionado por el frontend, la programación y el desarrollo web. Siempre estoy buscando ampliar mi conocimiento, aprendiendo nuevas tecnologías y profundizando en las que ya conozco para poder desenvolverme mejor en el campo del desarrollo web. Soy muy paciente y centrado en lo que hago, tengo gran atención a los detalles y atento a los demás para poder lograr los mejores resultados para el equipo.</div>  
 
 ## Habilidades y herramientas  
 <tr><td valign="top" width="100%" align="center">
