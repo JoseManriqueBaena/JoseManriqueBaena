@@ -1,33 +1,33 @@
-<div align="center"><h1> Hello, I'm Jose Manrique Baena! </h1></div>  
+<div align="center"><h1> Hola! mi nombre es Jose Manrique Baena </h1></div>  
 
 <div align="center">
 <img src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-6.jpg" align="center" style="width: 100%" />
 </div>  
 
 
-### <div align="center">My name is Jose, my age is 25 and i'm a full-stack developer. I love to learn new technologies and getting better in the ones that i'm already knew, I allways want to help other people if they have issues and i'm really open about opinions about what things i can change about myself. .</div>  
+### <div align="center">Mi nombre es Jose, tengo 25 años, soy ingeniero multimedia y full-stack developer apasionado por el frontend, la programación y el desarrollo web. Siempre estoy buscando ampliar mi conocimiento, aprendiendo nuevas tecnologías y profundizando en las que ya conozco para poder desenvolverme mejor en el campo del desarrollo web. Soy muy paciente y centrado en lo que hago, tengo gran atención a los detalles y atento a los demás para poder lograr los mejores resultados para el equipo.</div>  
 
-## My Skill Set  
+## Habilidades y herramientas  
 <tr><td valign="top" width="100%" align="center">
   
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+ <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 </div>
 
 </td></tr> 
 
-## Connect with me 
+## Conecta conmigo 
 <br>
 <div align="center">
 <a href="https://github.com/JoseManriqueBaena" target="_blank">
@@ -41,17 +41,22 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JoseManriqueBaena&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
+## Github 
+
+
+<table><tr><td valign="top" width="49%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JoseManriqueBaena&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
+
+</td><td valign="top" width="49%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManriqueBaena&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
+
+</td></tr></table> 
 
 <br />
 
-----
-<div align="center">Generated using <a>my two hands</a></div>
 
-<br />
-<br />
-- :bulb: I’m currently learning everything i can about Front-End tecnologies...
 
 <!---
 JoseManriqueBaena/JoseManriqueBaena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
