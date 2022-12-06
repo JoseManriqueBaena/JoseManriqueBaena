@@ -1,11 +1,11 @@
-<div align="center"><h1> Hola! mi nombre es Jose Manrique Baena </h1></div>  
+<div align="center"><h1> Hola! soy Jose Manrique Baena </h1></div>  
 
 <div align="center">
 <img src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-6.jpg" align="center" style="width: 100%" />
 </div>  
 
 
-### <div align="center">Mi nombre es Jose, tengo 25 años, soy ingeniero multimedia y full-stack developer apasionado por el frontend, la programación y el desarrollo web. Siempre estoy buscando ampliar mi conocimiento, aprendiendo nuevas tecnologías y profundizando en las que ya conozco para poder desenvolverme mejor en el campo del desarrollo web. Soy muy paciente y centrado en lo que hago, tengo gran atención a los detalles y atento a los demás para poder lograr los mejores resultados para el equipo.</div>  
+#### <div align="center">Mi nombre es Jose, tengo 25 años, soy ingeniero multimedia y full-stack developer apasionado por el frontend, la programación y el desarrollo web. Siempre estoy buscando ampliar mi conocimiento, aprendiendo nuevas tecnologías y profundizando en las que ya conozco para poder desenvolverme mejor en el campo del desarrollo web. Soy muy paciente y centrado en lo que hago, tengo gran atención a los detalles y atento a los demás para poder lograr los mejores resultados para el equipo.</div>  
 
 ## Habilidades y herramientas  
 <tr><td valign="top" width="100%" align="center">
